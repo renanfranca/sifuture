@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Jar-URL: Sifuture.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: Sifture,,Midlet
+MIDlet-Permissions:  javax.microedition.io.Connector.file.read; javax.microedition.io.Connector.file.write; javax.microedition.io.Connector.http; javax.microedition.io.Connector.socket; com.motorola.phone; javax.wireless.messaging.sms.send;javax.wireless.messaging.sms.receive;javax.microedition.media.control.VideoControl.getSnapshot;
+MIDlet-Name: Sifuture Midlet Suite

@@ -1,0 +1,19 @@
+# Classes compiladas e diretórios intermediários
+*.class
+/bin/
+/verified/
+
+# Dados temporários e cópias internas do emulador
+/_MIDletDB
+/_VsclAppDB
+/_alarmdb
+/_pushdb
+/Sifuture Midlet Suite Midlet Suite Vendor_chk
+/Sifuture Midlet Suite Midlet Suite Vendor_jad
+/Sifuture Midlet Suite Midlet Suite Vendor_jar
+
+# Arquivos locais de editores e sistemas operacionais
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
