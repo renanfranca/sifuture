@@ -1,6 +1,6 @@
 # sifuture
 
-[English](#english) | [Português](#português)
+[English](#english) | [Português (Brasil) — pt-BR](#português-brasil--pt-br)
 
 ## English
 
@@ -77,7 +77,7 @@ The statement about educational purpose and lack of commercial intent describes 
 
 ---
 
-## Português
+## Português (Brasil) — pt-BR
 
 Jogo desenvolvido por Renan Franca em **2006**, em Java ME (J2ME), exclusivamente como material para estudos de programação e desenvolvimento de jogos para celulares.
 
