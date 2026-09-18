@@ -1,5 +1,29 @@
-sifuture
+SiFuture
 Copyright 2006 Renan Franca
+
+English
+-------
+
+The code authored by Renan Franca is available under the
+Apache License, Version 2.0. See the LICENSE file.
+
+This game was developed in 2006 exclusively as learning material,
+without any intention of commercial use. This historical purpose
+does not restrict the uses permitted by the Apache License 2.0 for the code.
+
+The images used belong to other games and their respective rights holders.
+They were found publicly on the internet and used for learning purposes.
+These images are excluded from the Apache License 2.0, including when
+embedded in the .jar distribution files. This repository does not grant
+rights to reuse these images or claim permission to redistribute them.
+Public availability on the internet does not imply a license to use
+or redistribute them.
+
+This notice is informational and does not modify the terms of the
+Apache License 2.0.
+
+Português
+---------
 
 O código de autoria de Renan Franca é disponibilizado sob a
 Apache License, Version 2.0. Consulte o arquivo LICENSE.
