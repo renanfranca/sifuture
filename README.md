@@ -1,4 +1,4 @@
-# sifuture
+# SiFuture
 
 [English](#english) | [Português (Brasil) — pt-BR](#português-brasil--pt-br)
 
@@ -8,9 +8,19 @@ A game developed by Renan Franca in **2006**, using Java ME (J2ME), exclusively 
 
 This repository preserves the project as a historical record. The game was created without any intention of commercial use.
 
+### Project history
+
+When I created SiFuture in the second half of 2006, I was in the second semester of my bachelor's degree in Computer Science. At that point, I had learned Portugol in the course and was only beginning to study Turbo Pascal.
+
+To develop the game, I learned Java directly from Sun's official documentation. It was my only source for learning the language and building SiFuture.
+
+That documentation was where I discovered Java's slogan: "Write once, run anywhere". As a beginner, I imagined that the game I was creating would also run in other environments.
+
+When I finished, I was disappointed: the game ran on a mobile phone, but on a computer I needed an emulator. My game did not run directly on the desktop or on the web. Back then, in 2006, that was far from the expectation I had formed when I first encountered the slogan.
+
 ### Gameplay rules
 
-sifuture is a spaceship shooter created to address something that always frustrated me about this kind of game: losing all the powers I had collected whenever I died. Here, losing a life takes away only one upgrade level of your weapons, preserving part of your accumulated progress.
+SiFuture is a spaceship shooter created to address something that always frustrated me about this kind of game: losing all the powers I had collected whenever I died. Here, losing a life takes away only one upgrade level of your weapons, preserving part of your accumulated progress.
 
 The goal is the classic one: reach the end of the stage without running out of lives and aim for the highest score possible.
 
@@ -20,7 +30,7 @@ At the end of the stage, you receive a message based on your score, such as "OK"
 
 ### Gameplay video
 
-[Watch sifuture running on YouTube](https://youtu.be/1xMKYEy7Jqw?si=oF48Zq7EeNTLTb3J).
+[Watch SiFuture running on YouTube](https://youtu.be/1xMKYEy7Jqw?si=oF48Zq7EeNTLTb3J).
 
 ### Java and the original environment
 
@@ -83,9 +93,19 @@ Jogo desenvolvido por Renan Franca em **2006**, em Java ME (J2ME), exclusivament
 
 Este repositório preserva o projeto como registro histórico. O jogo foi criado sem qualquer intenção de utilização para fins comerciais.
 
+### História do projeto
+
+Quando criei o SiFuture, no segundo semestre de 2006, estava no segundo período do bacharelado em Ciência da Computação. Até então, no curso, eu havia aprendido Portugol e estava apenas começando a estudar Turbo Pascal.
+
+Para conseguir desenvolver o jogo, aprendi Java estudando diretamente pela documentação oficial da Sun. Essa foi minha única fonte para aprender a linguagem e construir o SiFuture.
+
+Foi nessa documentação que conheci o slogan do Java: "Write once, run anywhere" — "escreva uma vez e rode em qualquer lugar". Como estava começando, imaginei que o jogo que eu estava criando também pudesse funcionar em outros ambientes.
+
+Quando terminei, veio a decepção: o jogo rodava no celular, mas, no computador, eu precisava de um emulador. Meu jogo não rodava diretamente no desktop nem na web. Naquele momento, em 2006, isso ficou muito distante da expectativa que eu havia criado ao conhecer o slogan.
+
 ### Regras do jogo
 
-sifuture é um jogo de nave criado para superar algo que sempre me incomodou nesse tipo de jogo: perder todos os poderes que eu havia acumulado ao morrer. Aqui, ao perder uma vida, você perde apenas um nível de evolução do armamento, preservando parte do progresso acumulado.
+SiFuture é um jogo de nave criado para superar algo que sempre me incomodou nesse tipo de jogo: perder todos os poderes que eu havia acumulado ao morrer. Aqui, ao perder uma vida, você perde apenas um nível de evolução do armamento, preservando parte do progresso acumulado.
 
 O objetivo é o clássico: chegar ao final da fase sem gastar todas as vidas e buscar a maior pontuação possível.
 
@@ -95,7 +115,7 @@ Ao final da fase, você recebe uma mensagem de acordo com sua pontuação, como 
 
 ### Vídeo do jogo
 
-[Assista ao sifuture rodando no YouTube](https://youtu.be/1xMKYEy7Jqw?si=oF48Zq7EeNTLTb3J).
+[Assista ao SiFuture rodando no YouTube](https://youtu.be/1xMKYEy7Jqw?si=oF48Zq7EeNTLTb3J).
 
 ### Java e ambiente original
 
