@@ -4,19 +4,19 @@
 
 ## English
 
-A game developed by Renan Franca in **2006**, using Java ME (J2ME), exclusively as learning material for programming and mobile game development.
+A game developed by Renan Franca from the **second half of 2006 to August 1, 2007**, using Java ME (J2ME), exclusively as learning material for programming and mobile game development.
 
 This repository preserves the project as a historical record. The game was created without any intention of commercial use.
 
 ### Project history
 
-When I created SiFuture in the second half of 2006, I was in the second semester of my bachelor's degree in Computer Science. At that point, I had learned Portugol in the course and was only beginning to study Turbo Pascal.
+When I began developing SiFuture in the second half of 2006, I was in the second semester of my bachelor's degree in Computer Science. At that point, I had learned Portugol in the course and was only beginning to study Turbo Pascal.
 
 To develop the game, I learned Java directly from Sun's official documentation. It was my only source for learning the language and building SiFuture.
 
 That documentation was where I discovered Java's slogan: "Write once, run anywhere". As a beginner, I imagined that the game I was creating would also run in other environments.
 
-When I finished, I was disappointed: the game ran on a mobile phone, but on a computer I needed an emulator. My game did not run directly on the desktop or on the web. Back then, in 2006, that was far from the expectation I had formed when I first encountered the slogan.
+When I completed the game on August 1, 2007, I was disappointed: it ran on a mobile phone, but on a computer I needed an emulator. My game did not run directly on the desktop or on the web. At the time, that was far from the expectation I had formed when I first encountered the slogan.
 
 ### Gameplay rules
 
@@ -57,6 +57,7 @@ The game is a Java ME MIDlet. The descriptors and project files record:
 | Eclipse compiler compliance | Java 1.3 |
 | Configured bytecode target | Java 1.1 |
 | Bytecode inspected in `bin/Midlet.class` | Version 45.3 (Java 1.1) |
+| Preserved build date | August 1, 2007; latest internal JAR timestamp: 15:04:02 |
 | Eclipse integration | EclipseME; metadata version 1.5.0 |
 | SDK recorded in the project | Motorola Java ME SDK v6.4 for Motorola OS Products |
 | Configured device | MOTOKRZR K1 |
@@ -89,7 +90,7 @@ The settings have been preserved as a historical record and may need adjustments
 
 **The images used in this game belong to other games and their respective rights holders.** They were found publicly on the internet and used exclusively as learning material in this project.
 
-I do not claim authorship or ownership of these images. The game's development in 2006 had an educational purpose, without any intention of commercial use or affiliation with the rights holders of the original games.
+I do not claim authorship or ownership of these images. The game's development, from the second half of 2006 to its completion on August 1, 2007, had an educational purpose, without any intention of commercial use or affiliation with the rights holders of the original games.
 
 Third-party images **are not covered by the Apache License 2.0**, including when embedded in the `.jar`. This repository does not grant rights to reuse these images or claim permission to redistribute them. Being publicly available on the internet does not imply a license to use or redistribute them.
 
@@ -105,19 +106,19 @@ The statement about educational purpose and lack of commercial intent describes 
 
 ## Português (Brasil) — pt-BR
 
-Jogo desenvolvido por Renan Franca em **2006**, em Java ME (J2ME), exclusivamente como material para estudos de programação e desenvolvimento de jogos para celulares.
+Jogo desenvolvido por Renan Franca entre o **segundo semestre de 2006 e 1º de agosto de 2007**, em Java ME (J2ME), exclusivamente como material para estudos de programação e desenvolvimento de jogos para celulares.
 
 Este repositório preserva o projeto como registro histórico. O jogo foi criado sem qualquer intenção de utilização para fins comerciais.
 
 ### História do projeto
 
-Quando criei o SiFuture, no segundo semestre de 2006, estava no segundo período do bacharelado em Ciência da Computação. Até então, no curso, eu havia aprendido Portugol e estava apenas começando a estudar Turbo Pascal.
+Quando comecei a desenvolver o SiFuture, no segundo semestre de 2006, estava no segundo período do bacharelado em Ciência da Computação. Até então, no curso, eu havia aprendido Portugol e estava apenas começando a estudar Turbo Pascal.
 
 Para conseguir desenvolver o jogo, aprendi Java estudando diretamente pela documentação oficial da Sun. Essa foi minha única fonte para aprender a linguagem e construir o SiFuture.
 
 Foi nessa documentação que conheci o slogan do Java: "Write once, run anywhere" — "escreva uma vez e rode em qualquer lugar". Como estava começando, imaginei que o jogo que eu estava criando também pudesse funcionar em outros ambientes.
 
-Quando terminei, veio a decepção: o jogo rodava no celular, mas, no computador, eu precisava de um emulador. Meu jogo não rodava diretamente no desktop nem na web. Naquele momento, em 2006, isso ficou muito distante da expectativa que eu havia criado ao conhecer o slogan.
+Quando finalizei o jogo, em 1º de agosto de 2007, veio a decepção: ele rodava no celular, mas, no computador, eu precisava de um emulador. Meu jogo não rodava diretamente no desktop nem na web. Naquele momento, isso ficou muito distante da expectativa que eu havia criado ao conhecer o slogan.
 
 ### Regras do jogo
 
@@ -158,6 +159,7 @@ O jogo é um MIDlet Java ME. Os descritores e arquivos do projeto registram:
 | Compatibilidade do compilador Eclipse | Java 1.3 |
 | Alvo de bytecode configurado | Java 1.1 |
 | Bytecode inspecionado em `bin/Midlet.class` | Versão 45.3 (Java 1.1) |
+| Data do build preservado | 1º de agosto de 2007; timestamp interno mais recente do JAR: 15:04:02 |
 | Integração com Eclipse | EclipseME; metadados na versão 1.5.0 |
 | SDK registrado no projeto | Motorola Java ME SDK v6.4 for Motorola OS Products |
 | Dispositivo configurado | MOTOKRZR K1 |
@@ -190,7 +192,7 @@ As configurações foram preservadas como registro histórico e podem exigir aju
 
 **As imagens utilizadas neste jogo pertencem a outros jogos e aos seus respectivos titulares.** Elas foram encontradas publicamente na internet e utilizadas exclusivamente como material para estudos neste projeto.
 
-Não reivindico autoria ou propriedade sobre essas imagens. O desenvolvimento do jogo em 2006 teve finalidade educacional, sem qualquer intenção de utilização para fins comerciais ou de associação com os titulares dos jogos originais.
+Não reivindico autoria ou propriedade sobre essas imagens. O desenvolvimento do jogo, do segundo semestre de 2006 até sua conclusão em 1º de agosto de 2007, teve finalidade educacional, sem qualquer intenção de utilização para fins comerciais ou de associação com os titulares dos jogos originais.
 
 As imagens de terceiros **não estão abrangidas pela Apache License 2.0**, inclusive quando incorporadas ao `.jar`. Este repositório não concede direitos de reutilização dessas imagens nem afirma autorização para sua redistribuição. O fato de terem sido encontradas publicamente na internet não implica uma licença de uso ou redistribuição.
 
