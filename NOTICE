@@ -19,6 +19,11 @@ rights to reuse these images or claim permission to redistribute them.
 Public availability on the internet does not imply a license to use
 or redistribute them.
 
+The MIDI files in the audio directory are also third-party material.
+Their original titles, authors, and licenses have not been identified.
+They are excluded from the Apache License 2.0. This repository does not
+grant rights to reuse or redistribute them.
+
 This notice is informational and does not modify the terms of the
 Apache License 2.0.
 
@@ -39,5 +44,10 @@ incorporadas aos arquivos de distribuição .jar. Este repositório não concede
 direitos de reutilização dessas imagens nem afirma autorização para sua
 redistribuição. A disponibilidade pública na internet não implica uma
 licença de uso ou redistribuição.
+
+Os arquivos MIDI no diretório audio também são materiais de terceiros.
+Seus títulos originais, autores e licenças não foram identificados. Eles
+estão excluídos da Apache License 2.0. Este repositório não concede direitos
+para sua reutilização ou redistribuição.
 
 Este aviso é informativo e não modifica os termos da Apache License 2.0.
