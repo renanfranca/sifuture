@@ -32,6 +32,19 @@ At the end of the stage, you receive a message based on your score, such as "OK"
 
 [Watch SiFuture running on YouTube](https://youtu.be/1xMKYEy7Jqw?si=oF48Zq7EeNTLTb3J).
 
+### Soundtrack
+
+The historical soundtrack consists of two third-party MIDI files:
+
+| File | Use in the game |
+| --- | --- |
+| `audio/FASE.MID` | Regular stage music |
+| `audio/BOSS.MID` | Music played only during the final boss battle |
+
+The preserved source code and distribution `.jar` do not contain audio playback or embedded copies of these tracks. The MIDI files are archived separately as part of the project's historical material.
+
+The original titles, authors, and licenses of these tracks have not been identified. They are not covered by this project's Apache License 2.0.
+
 ### Java and the original environment
 
 The game is a Java ME MIDlet. The descriptors and project files record:
@@ -64,6 +77,7 @@ The distribution files are historical artifacts. Running and rebuilding the game
 
 - `src/`: Java source code and historical images.
 - `res/`: project resources.
+- `audio/`: third-party MIDI files from the historical soundtrack.
 - `deployed/`: historical `.jar` and `.jad` distribution files.
 - `doc/`: original Javadoc documentation.
 - `.classpath`, `.project`, `.eclipseme`, and `.settings/`: original Eclipse and EclipseME settings.
@@ -71,7 +85,7 @@ The distribution files are historical artifacts. Running and rebuilding the game
 
 The settings have been preserved as a historical record and may need adjustments for another computer. Intermediate compiled classes and temporary emulator databases are not tracked in version control.
 
-### Notice about images and educational purpose
+### Notice about third-party assets and educational purpose
 
 **The images used in this game belong to other games and their respective rights holders.** They were found publicly on the internet and used exclusively as learning material in this project.
 
@@ -79,11 +93,13 @@ I do not claim authorship or ownership of these images. The game's development i
 
 Third-party images **are not covered by the Apache License 2.0**, including when embedded in the `.jar`. This repository does not grant rights to reuse these images or claim permission to redistribute them. Being publicly available on the internet does not imply a license to use or redistribute them.
 
+The MIDI files in `audio/` are also third-party material. Their original titles, authors, and licenses have not been identified. They **are not covered by the Apache License 2.0**, and this repository does not grant rights to reuse or redistribute them.
+
 ### Code license
 
 The code authored by Renan Franca is available under the **Apache License 2.0**. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-The statement about educational purpose and lack of commercial intent describes the project's original purpose. It does not add a restriction on commercial use of the licensed code: use of that code is governed by the Apache License 2.0. Third-party images remain excluded from that license.
+The statement about educational purpose and lack of commercial intent describes the project's original purpose. It does not add a restriction on commercial use of the licensed code: use of that code is governed by the Apache License 2.0. Third-party images and audio files remain excluded from that license.
 
 ---
 
@@ -117,6 +133,19 @@ Ao final da fase, você recebe uma mensagem de acordo com sua pontuação, como 
 
 [Assista ao SiFuture rodando no YouTube](https://youtu.be/1xMKYEy7Jqw?si=oF48Zq7EeNTLTb3J).
 
+### Trilha sonora
+
+A trilha sonora histórica é composta por dois arquivos MIDI de terceiros:
+
+| Arquivo | Uso no jogo |
+| --- | --- |
+| `audio/FASE.MID` | Música normal da fase |
+| `audio/BOSS.MID` | Música tocada apenas durante a batalha contra o chefe final |
+
+O código-fonte e o `.jar` de distribuição preservados não contêm reprodução de áudio nem cópias incorporadas dessas músicas. Os arquivos MIDI são arquivados separadamente como parte do material histórico do projeto.
+
+Os títulos originais, autores e licenças dessas músicas não foram identificados. Elas não estão abrangidas pela Apache License 2.0 deste projeto.
+
 ### Java e ambiente original
 
 O jogo é um MIDlet Java ME. Os descritores e arquivos do projeto registram:
@@ -149,6 +178,7 @@ Os arquivos de distribuição são históricos. A execução e a recompilação 
 
 - `src/`: código-fonte Java e imagens históricas.
 - `res/`: recursos do projeto.
+- `audio/`: arquivos MIDI de terceiros da trilha sonora histórica.
 - `deployed/`: arquivos históricos de distribuição `.jar` e `.jad`.
 - `doc/`: documentação Javadoc original.
 - `.classpath`, `.project`, `.eclipseme` e `.settings/`: configurações originais do Eclipse e EclipseME.
@@ -156,7 +186,7 @@ Os arquivos de distribuição são históricos. A execução e a recompilação 
 
 As configurações foram preservadas como registro histórico e podem exigir ajustes para outro computador. Classes compiladas intermediárias e bancos temporários do emulador não são versionados.
 
-### Aviso sobre as imagens e finalidade de estudos
+### Aviso sobre recursos de terceiros e finalidade de estudos
 
 **As imagens utilizadas neste jogo pertencem a outros jogos e aos seus respectivos titulares.** Elas foram encontradas publicamente na internet e utilizadas exclusivamente como material para estudos neste projeto.
 
@@ -164,8 +194,10 @@ Não reivindico autoria ou propriedade sobre essas imagens. O desenvolvimento do
 
 As imagens de terceiros **não estão abrangidas pela Apache License 2.0**, inclusive quando incorporadas ao `.jar`. Este repositório não concede direitos de reutilização dessas imagens nem afirma autorização para sua redistribuição. O fato de terem sido encontradas publicamente na internet não implica uma licença de uso ou redistribuição.
 
+Os arquivos MIDI em `audio/` também são materiais de terceiros. Seus títulos originais, autores e licenças não foram identificados. Eles **não estão abrangidos pela Apache License 2.0**, e este repositório não concede direitos para sua reutilização ou redistribuição.
+
 ### Licença do código
 
 O código de autoria de Renan Franca é disponibilizado sob a **Apache License 2.0**. Consulte [LICENSE](LICENSE) e [NOTICE](NOTICE).
 
-A declaração de finalidade educacional e ausência de intenção comercial descreve o propósito original do projeto. Ela não acrescenta uma proibição de uso comercial ao código licenciado: os usos desse código seguem os termos da Apache License 2.0. As imagens de terceiros permanecem excluídas dessa licença.
+A declaração de finalidade educacional e ausência de intenção comercial descreve o propósito original do projeto. Ela não acrescenta uma proibição de uso comercial ao código licenciado: os usos desse código seguem os termos da Apache License 2.0. As imagens e os arquivos de áudio de terceiros permanecem excluídos dessa licença.
